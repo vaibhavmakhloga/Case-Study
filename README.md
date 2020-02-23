@@ -1,11 +1,11 @@
 # Case-Study
 An analysis of the funding trends and patterns based on Indian startups Dataset. Some useful insights like what type of startups are getting funded, which is location is ideal for setting up a startup and Companies that heavily invest in India.
 
-Dataset 
+# Dataset 
 
 The dataset has funding information of the Indian startups from January 2015 to August 2017.
 
-Feature Details :
+# Feature Details :
 
 SNo - Serial number.
 Date - Date of funding in format DD/MM/YYYY.
